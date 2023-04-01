@@ -10,11 +10,9 @@ The repository contains the following data:
 **Content**
 In addition to this READ ME file, the 820 repository contains the following data:
 
-     - Report #1- Data Description (.pdf)
-     - Report #2- Data Preparation (.pdf)
-     - Report #3- Testing & Evaluation (.pdf)
+     - 03Apr2023- Final Report (.pdf)
      - Visualize Features (.ipynb)
      - Data Prepararation, Testing & Evaluation (.ipynb)
 
 **Utilization**
-The repository consists of technical, narrative and visual data. The pdfs are intended to provide a technical narrative, while the .ipynb files are commented and intended to provide the source code with a sample of the results output where relevent and useful.
+The repository consists of technical, narrative and visual data. The pdf is intended to provide a technical narrative, while the .ipynb files are commented and intended to provide the source code with a sample of the results output where relevent and useful.
