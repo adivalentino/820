@@ -1,4 +1,4 @@
-The model that is outlined through this repository leverages traditional movie metadata with social media and user engagement metrics. 
+The model that is outlined through this repository leveraging traditional movie metadata with social media and user engagement metrics. 
 The purpose of this repository is to answer the following problem:
 
 **Can the use of our model result in predicting the financial success of a movie?**
